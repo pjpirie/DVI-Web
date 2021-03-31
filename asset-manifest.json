@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/DVI-Web/static/css/main.1576444e.chunk.css",
+    "main.js": "/DVI-Web/static/js/main.19892ca6.chunk.js",
+    "main.js.map": "/DVI-Web/static/js/main.19892ca6.chunk.js.map",
+    "runtime-main.js": "/DVI-Web/static/js/runtime-main.1b328fa4.js",
+    "runtime-main.js.map": "/DVI-Web/static/js/runtime-main.1b328fa4.js.map",
+    "static/js/2.a3995b82.chunk.js": "/DVI-Web/static/js/2.a3995b82.chunk.js",
+    "static/js/2.a3995b82.chunk.js.map": "/DVI-Web/static/js/2.a3995b82.chunk.js.map",
+    "static/js/3.5a20a0b5.chunk.js": "/DVI-Web/static/js/3.5a20a0b5.chunk.js",
+    "static/js/3.5a20a0b5.chunk.js.map": "/DVI-Web/static/js/3.5a20a0b5.chunk.js.map",
+    "index.html": "/DVI-Web/index.html",
+    "static/css/main.1576444e.chunk.css.map": "/DVI-Web/static/css/main.1576444e.chunk.css.map",
+    "static/js/2.a3995b82.chunk.js.LICENSE.txt": "/DVI-Web/static/js/2.a3995b82.chunk.js.LICENSE.txt",
+    "static/media/Asset 1.61b341c6.svg": "/DVI-Web/static/media/Asset 1.61b341c6.svg",
+    "static/media/Asset 2.76a53991.svg": "/DVI-Web/static/media/Asset 2.76a53991.svg",
+    "static/media/Asset 3.ce059e28.svg": "/DVI-Web/static/media/Asset 3.ce059e28.svg",
+    "static/media/Mamas_WordMark_NoBG.d5684883.svg": "/DVI-Web/static/media/Mamas_WordMark_NoBG.d5684883.svg",
+    "static/media/icecreamCustom4_1.11c5f821.mp4": "/DVI-Web/static/media/icecreamCustom4_1.11c5f821.mp4",
+    "static/media/map.afcd704f.png": "/DVI-Web/static/media/map.afcd704f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b328fa4.js",
+    "static/js/2.a3995b82.chunk.js",
+    "static/css/main.1576444e.chunk.css",
+    "static/js/main.19892ca6.chunk.js"
+  ]
+}
