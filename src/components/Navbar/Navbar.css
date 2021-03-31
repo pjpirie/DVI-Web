@@ -1,0 +1,50 @@
+.Navbar__Items{
+    /* background: linear-gradient(90deg, #DD772C, #785DA8 100%); */
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    box-shadow: 3px 4px 10px 1px rgba(0, 0, 0, 0.3);
+}
+
+.Navbar__Logo{
+    color: #fff;
+    justify-self: start;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.Navbar__Menu{
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center;
+    width: 70vw;
+    justify-content: end;
+    margin-right: 2rem;
+}
+
+.Navbar__Links{
+    color: #DD772C;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+
+.Navbar__Links:hover{
+    background: #FAB721;
+    border-radius: 4px;
+    transition: all 200ms ease-out;
+}
+
+.Navbar__Menu__Icon {
+    color: #fff;
+    display: none;
+}
+
+.Navbar__Logo{
+    max-height: 100%;
+    padding: 1rem;
+}

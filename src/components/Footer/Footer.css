@@ -1,0 +1,14 @@
+.Footer__Container{
+    height: 160px;
+    background: linear-gradient(90deg, #DD772C, #785DA8 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    color: #fff;
+}
+.Footer__Logo{
+    max-height: 80px;
+    padding: 1rem;
+}

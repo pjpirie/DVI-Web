@@ -1,0 +1,52 @@
+@media screen and (max-width: 1000px){
+    .Navbar__Items{
+        position: relative;
+    }
+    .Navbar__Menu{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 300px;
+        position: absolute;
+        top: 80px;
+        left: -100%;
+        opacity: 1;
+        transition: all 500ms ease-in-out;
+    }
+
+    .Navbar__Menu.active{
+        background: #DD772C;
+        left: 0;
+        opacity: 1;
+        transition: all 500ms ease-in-out;
+        z-index: 1;
+    }
+
+    .Navbar__Links{
+        text-align: center;
+        padding: 2rem;
+        width: 100%;
+        display: table;
+    }
+
+    .Navbar__Links:hover{
+        background: #FAB721;
+        border-radius: 0px;
+    }
+
+    .Navbar__logo{
+        position: absolute;
+        top: 0;
+        left: 0;
+        transform:  translate(25%, 50%);
+    }
+    .Navbar__Menu__Icon{
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        transform: translate(-100%, 60%);
+        font-size: 1.8rem;
+        cursor: pointer;
+    }
+}
