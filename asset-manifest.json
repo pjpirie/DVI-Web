@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/DVI-Web/static/css/main.82f64d12.chunk.css",
-    "main.js": "/DVI-Web/static/js/main.ddfa938f.chunk.js",
-    "main.js.map": "/DVI-Web/static/js/main.ddfa938f.chunk.js.map",
+    "main.css": "/DVI-Web/static/css/main.1599eef4.chunk.css",
+    "main.js": "/DVI-Web/static/js/main.332803cf.chunk.js",
+    "main.js.map": "/DVI-Web/static/js/main.332803cf.chunk.js.map",
     "runtime-main.js": "/DVI-Web/static/js/runtime-main.1b328fa4.js",
     "runtime-main.js.map": "/DVI-Web/static/js/runtime-main.1b328fa4.js.map",
     "static/js/2.a3995b82.chunk.js": "/DVI-Web/static/js/2.a3995b82.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.5a20a0b5.chunk.js": "/DVI-Web/static/js/3.5a20a0b5.chunk.js",
     "static/js/3.5a20a0b5.chunk.js.map": "/DVI-Web/static/js/3.5a20a0b5.chunk.js.map",
     "index.html": "/DVI-Web/index.html",
-    "static/css/main.82f64d12.chunk.css.map": "/DVI-Web/static/css/main.82f64d12.chunk.css.map",
+    "static/css/main.1599eef4.chunk.css.map": "/DVI-Web/static/css/main.1599eef4.chunk.css.map",
     "static/js/2.a3995b82.chunk.js.LICENSE.txt": "/DVI-Web/static/js/2.a3995b82.chunk.js.LICENSE.txt",
     "static/media/Asset 1.61b341c6.svg": "/DVI-Web/static/media/Asset 1.61b341c6.svg",
     "static/media/Asset 2.76a53991.svg": "/DVI-Web/static/media/Asset 2.76a53991.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.1b328fa4.js",
     "static/js/2.a3995b82.chunk.js",
-    "static/css/main.82f64d12.chunk.css",
-    "static/js/main.ddfa938f.chunk.js"
+    "static/css/main.1599eef4.chunk.css",
+    "static/js/main.332803cf.chunk.js"
   ]
 }
