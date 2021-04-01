@@ -15,9 +15,9 @@ function App() {
         <Navbar />
         <div className="Content__Container">
           <Switch>
-            <Route path="/" exact component={Landing} />
-            <Route path="/about" component={About} />
-            <Route path="/contact" component={Contact} />
+            <Route path="/DVI-Web/" exact component={Landing} />
+            <Route path="/DVI-Web/about" component={About} />
+            <Route path="/DVI-Web/contact" component={Contact} />
           </Switch>
         </div>
         <Footer />

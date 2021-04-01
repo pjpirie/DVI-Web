@@ -27,7 +27,7 @@ const Landing = () => {
                     </div>
                     <div className="Landing__Exp__Item">
                         <img src={IceCreamIcon} />
-                        <h3>Experience Our Ice Cream</h3>
+                        <h3>Love Our Ice Cream</h3>
                     </div>
                 </div>
             </div>

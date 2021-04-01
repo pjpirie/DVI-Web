@@ -22,12 +22,19 @@ a{
   text-decoration: none;
 }
 
-.Gradient__Heading{
+.Gradient__Heading_Big{
     font-size: 3rem;
-    background: -webkit-linear-gradient(-90deg, #DD772C 20%, #785DA8 100%);
+    background: -webkit-linear-gradient(0deg, #DD772C 0%, #785DA8 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     padding: 2rem 0 0 2rem;
+}
+
+.Gradient__Heading{
+  background: -webkit-linear-gradient(180deg, #DD772C 0%, #785DA8 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding: 2rem 0 0 2rem;
 }
 .Container{
   /* padding: 2rem; */
